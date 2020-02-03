@@ -13,7 +13,7 @@ alias rbp="source ~/.bash_profile"
 alias ls="ls -CF"
 alias gs="git status"
 ```
-4. Press 'Ctrl+o' to 'Writeout'.
+4. Press 'Ctrl+o' to 'Writeout', hit enter to confirm 'Yes'.
 5. Press 'Ctrl+x' to 'Exit'.
 6. Close Terminal, reopen to refresh.
 7. Change directory to a git repo, and see __great things__!
